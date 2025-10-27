@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **thevasanthbanoth@gmail.com**
+- 📫 How to reach me **workbyvasanthbanoth@gmail.com**
 
 - ⚡ Fun fact **I am no body!**
 
