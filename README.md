@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **VeeSight**
+- 👯 I’m looking to collaborate on **fit-frame**
 
 - 👨‍💻 All of my projects are available at [https://vasanthdev.in/](https://vasanthdev.in/)
 
