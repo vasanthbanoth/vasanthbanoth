@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vasanthonx" target="blank"><img src="https://img.shields.io/twitter/follow/vasanthonx?logo=twitter&style=for-the-badge" alt="vasanthonx" /></a> </p>
 
-- 🔭 I’m currently working on **HomeSpot**
+- 🔭 I’m currently working on **CineX**
 
 - 🌱 I’m currently learning **DSA**
 
