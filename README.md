@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Advanced DSA & System Design**
 - 👯 I’m looking to collaborate on **FitFrame**
 - 💻 All of my projects are available at [**vasanthdev.in**](https://vasanthdev.in/)
-- 💬 Ask me about **Frontend, Backend, or Full Stack **
+- 💬 Ask me about Frontend, Backend, or Full Stack 
 - 📫 How to reach me: **workbyvasanthbanoth@gmail.com**
 - ⚡ Fun fact: **I am nobody! (But I code like somebody)**
 
