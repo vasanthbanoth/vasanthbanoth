@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>A Passionate Full Stack Developer from India 🇮🇳</h3>
+  <h3>A Passionate Software Developer from India 🇮🇳</h3>
 </div>
 
 <p align="center">
